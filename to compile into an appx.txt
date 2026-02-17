@@ -1,0 +1,13 @@
+open CMD as admin
+
+---
+
+cd C:\Users\taifa\Desktop\Video To SRT
+
+---
+
+venv\Scripts\pyinstaller --noconfirm --onedir --windowed --icon="icon.ico" --name "engine" --clean --paths "venv/Lib/site-packages" --collect-all "whisper" backend/engine.py
+
+---
+
+npm run dist

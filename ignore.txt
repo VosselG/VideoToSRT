@@ -1,0 +1,6 @@
+venv/
+logs/
+node_modules/
+MediaTest/
+build/
+.git/

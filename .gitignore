@@ -1,0 +1,9 @@
+venv/
+logs/
+node_modules/
+backend/bin/ffmpeg.exe
+backend/bin/ffprobe.exe
+Media/
+build/engine/
+Visuals/PNG/
+dist/
